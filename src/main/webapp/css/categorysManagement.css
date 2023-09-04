@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.box {
+	width: 100%;
+	margin-top: 30px;
+}
+
+.form {
+	padding: 0 100px;
+}
+
+.form-floating>input {
+	margin-bottom: 13px;
+}
+
+form .btn {
+	width: 100px;
+	margin: 5px 10px;
+}
+
+.list {
+	width: 90%;
+	margin: 50px auto;
+}
+
+.nut {
+	margin: 0 3px;
+}
+
+.count {
+	margin-left: 10px;
+}

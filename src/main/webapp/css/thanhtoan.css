@@ -1,0 +1,104 @@
+main {
+    min-height: 500px;
+}
+
+.box {
+    width: 90%;
+    min-height: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    /* background-color: aqua; */
+}
+
+.information {
+    /* float: left; */
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    padding: 30px;
+    border-radius: 5px;
+}
+.dieukhoan{
+    margin-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dssp{
+    /* float: right; */
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+}
+td{
+    vertical-align: middle;
+}
+
+.hoadon {
+    padding: 10px 30px;
+}
+
+.price {
+    text-align: right;
+}
+
+label {
+    margin: 10px 0;
+    font-family: Tahoma;
+}
+
+.radio {
+    margin:0 5px;
+    margin-right: 5px;
+}
+
+.name {
+    width: 250px;
+    padding-left: 10px;
+}
+
+.input {
+    outline: none;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.general {
+    margin-left: 50px
+}
+
+.phone {
+    width: 300px;
+    padding-left: 10px;
+}
+
+.address {
+    width: 470px;
+}
+
+.discount {
+    margin-top: 30px;
+}
+
+.thongtin {
+    height: 100px;
+}
+
+.cuoi {
+    margin-top: 50px;
+}
+
+.logoshop {
+    width: 20%;
+    float: right;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.logoshop>img {
+    height: 35px;
+    margin-bottom: 5px;
+}
+
+.loicamon {
+    margin-left: 30px;
+}
